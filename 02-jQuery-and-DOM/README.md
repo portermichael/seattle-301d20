@@ -8,10 +8,25 @@
 
 ## Daily Plan
 
-*(Note: This section will be filled in with more detail as we get closer to the day for this class)*
-1. Code Review
-2. Lecture/demo on new content
-3. Review of the lab code
+- Code Review and Q&A (20-25 min.)
+- Discussion on the Portfolio assignment (20-25 min)
+
+`10-minute break`
+
+- Slides: Agile Web Development slides
+- Slides: jQuery and the DOM
+- Duckett JS textbook: pp.293-325 are a reference
+- [jQuery Cheat sheet](http://oscarotero.com/jquery)
+- jQuery: Store it locally or use a CDN?
+
+`10-minute break`
+
+- Review of today's lab and portfolio assignments
+  - Look at a working version
+  - Overview: directory structure
+  - Overview: how the lab code works
+  - Look at the TODOs and any REVIEW items
+	- Portfolio: daily workflow over the entire course
 
 ---
 
@@ -21,7 +36,6 @@
 * What is a dependency?
 * Perform DOM manipulations using `append`, `remove`, `clone`, `data`, `html`, `text`.
 * Traverse the DOM tree, with `parents`, `children`, `find`.
-* Understand the use of event delegation for dynamic element selection.
 * Differentiate between certain methods & the process of chaining.
 * Understand proper `<script>` loading order in HTML.
 
