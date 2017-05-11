@@ -3,7 +3,7 @@ $('nav a').on('click', function() {
   var $whereToGo = $(this).data('tab') //gives us 'delegation' or 'attributes'
   $('.tab-content').hide()
   //we want $('#delegation')
-  $('#' + $whereToGo).fadeIn(750)
+  $('#' + $whereToGo).fadeIn(10000)
 })
 
 //event logger
