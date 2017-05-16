@@ -18,6 +18,7 @@ function handleShowNeighborhoods() {
     // SUCCESS CALLBACK
     function(data) {
     console.log(data);
+    localStorage.setItem('theHoods', JSON.stringify(data));
     data.forEach(function(neighborhoodObject) {
       neighborhoods.push(new Neighborhood(neighborhoodObject));
       console.log('neighborhoods array being built', neighborhoods);
