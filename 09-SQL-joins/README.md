@@ -3,16 +3,52 @@
 ## Overview
 <!-- Provide a general overview of the daily concepts and processes that will be covered in lectures and labs -->
 
-- The purpose of this class is to introduce the concepts of database normalization through the use of SQL joins.
+The purpose of this class is to introduce the concepts of database normalization through the use of SQL joins.
 
 ---
 
 ## Daily Plan
 
-*(Note: This section will be filled in with more detail as we get closer to the day for this class)*
-1. Code Review
-2. Lecture/demo on new content
-3. Review of the lab code
+**Code Review!!**
+
+`10 minute break`
+
+**Slides on SQL joins**
+
+Also see this [reference document on joins](joins.md)
+
+##### Normalization & Joins
+
+- Database Relationships
+- 1:1 Rel
+- 1:Many / Many:1 Rel
+- Many:Many Rel (Includes Junction Tables)
+- Self-referencing Rel
+
+##### Database Normalization
+
+- Remove duplicate data
+- Minimize database redesign
+- Minimize modification anomalies
+
+##### Joins
+
+- Understanding Primary and Foreign Keys
+	- Discuss how these keys are related and can be used for database normalization
+
+- Inner Join
+	- Discuss syntax
+	- Discuss concepts
+
+- High Level Overview of Other Join types
+
+`10 minute break`
+
+##### Demo
+
+##### Lab Prep
+
+- Be sure to carefully follow the setup instructions in the lab README to get today's lab up and running. You need to do a DROP TABLE on the articles table from yesterday's lab to prevent problems. Today we have two tables, one of which, 'articles', is the same name as the table we used yesterday but has a different structure, so it needs to be obliterated.
 
 ---
 
