@@ -37,11 +37,11 @@ Song for the day: ["The Final Countdown" by Gabe The Dog](https://www.youtube.co
 
 **Final projects: Let's go over the requirements!**
 
-- Day [16](https://github.com/codefellows/seattle-301d17/blob/master/16-project-week-day-1/README.md): Getting started
-- Day [17](https://github.com/codefellows/seattle-301d17/blob/master/17-project-week-day-2/README.md): Big buildout day
-- Day [18](https://github.com/codefellows/seattle-301d17/blob/master/18-project-week-day-3/README.md): Aim for MVP
-- Day [19](https://github.com/codefellows/seattle-301d17/blob/master/19-project-week-day-4/README.md): Stretch goals, refinements
-- Day [20](https://github.com/codefellows/seattle-301d17/blob/master/19-project-week-day-4/README.md): Presentations! `Note: project requirements are in this document`
+- Day [16](https://github.com/codefellows/seattle-301d20/blob/master/16-project-week-day-1/README.md): Getting started
+- Day [17](https://github.com/codefellows/seattle-301d20/blob/master/17-project-week-day-2/README.md): Big buildout day
+- Day [18](https://github.com/codefellows/seattle-301d20/blob/master/18-project-week-day-3/README.md): Aim for MVP
+- Day [19](https://github.com/codefellows/seattle-301d20/blob/master/19-project-week-day-4/README.md): Stretch goals, refinements
+- Day [20](https://github.com/codefellows/seattle-301d20/blob/master/19-project-week-day-4/README.md): Presentations! `Note: project requirements are in this document`
 - Do not forget the associated Canvas assignments! One is a group submission and the other is an individual submission!
 
 `BREAK (10 minutes)`
