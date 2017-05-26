@@ -23,7 +23,7 @@ Song for the day: ["The Final Countdown" by Gabe The Dog](https://www.youtube.co
 **Review of the course**
 
 - Weekly concepts and daily topics
-- Where were we at the end of 201? [1]() [2]() [3]() [4]()
+- Where were we at the end of 201? [1](https://skyfriends.github.io/drum-machine/) [2](https://axelmichael11.github.io/Wine_Fellows/) [3](https://spengietz.github.io/time-clock/) [4](https://cadburylion.github.io/) [5](https://twofacefear.github.io/dnd-character-creator/) [6](https://evilb4k4.github.io/LFG/)
 
 **Any requested topics for more specific review? Let's make a list!**
 
