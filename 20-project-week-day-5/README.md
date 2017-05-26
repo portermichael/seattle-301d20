@@ -56,6 +56,7 @@ Your grade is based on your individual effort and your project's technical merit
     * State is persisted between page reloads
     * Deployed live on the Internet with a meaningfully-named URL, either through a custom-named Heroku (or similar service) application or, ideally, through purchasing and connecting a domain (as of April 2017, Namecheap.com offers a wide variety of domain names for $0.88).
     * Final presentation is done from the live deployed app, not *"that version on someones laptop that works better"*, so that audience members can try out your app if they like
+    * All projects must use the MIT software license in the spirit of open-source development.
 
 ## Congratulations!
 Thanks for all your hard work through this course! We can't wait to see where you go with your new super powers. :)
