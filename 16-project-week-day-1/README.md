@@ -2,42 +2,42 @@
 
 ***By the end of Day 1, students should have all wireframes, project management tools, repositories, collaborators, workflow guidelines, and general responsibilities created. It’s usually best if students have already started coding by this point, although, be sure to place an emphasis on proper project setup to ensure students aren’t bound to fail from the get-go.***
 
-## Final Project Rules and Process
+## Final Project Requirements and Processes
 For your final project, your task is to work with a team to build a web site that simulates a real-world product, service, or game.
 
-**Rules:**
+**Requirements:**
 
-Your team must adhere to the following requirements.
 * There can be no more than 5 people per team.
 * Each person must make meaningful contributions in HTML, CSS, and JavaScript.
-* Your web site must have at least 3 interlinked pages and clear navigation.
-* Your web site must have at least 2 pages that accept and process user input.
-* Your web site's state must persist between page reloads.
-* Your web site must be deployed live on the Internet.
+* Your single-page-app should have at least 3 distinct views
+* Your app process user input and retrieve/present data from an external API
+* Your app's state must persist between page reloads (local storage!) and utilize routing middleware as appropriate in managing state
+* Your app must be deployed live on the Internet, with this deployment being used for the final presentation
 
 **Process:**
 
 Here's the process that we'll be using for project week.
-1. On the first day of project week, your team must submit a proposal to an instructor.
-2. During project week, your team must work on-campus so we can help whenever your team is stuck.
-3. On the last day of project week, your team must present your project in front of the class.
+
+1. On the first day of project week, your team must submit a project proposal to the instructonal staff.
+2. During project week, your team should regularly work on-campus so we can help whenever your team is stuck.
+3. On the last day of project week, your team must present your project as part of a Demo Day event.
 
 
 ## Project proposals
 
-1. On the first day of project week, your team must submit a proposal to an instructor with the following information:
+1. On the first day of project week, your team must submit a proposal to the instructor with the following information:
 
- - Your team's name
+ - Your team's name (if you have one)
  - Your team's members
- - Your project's pitch. (What is the problem statement and what are the benefits of your solution? Read more about these [here](https://www.bidsketch.com/proposal-resources/proposal-templates/web-design-proposal-template).)
- - A diagram of relevant details from your project's domain model
+ - Your project's pitch. What is the problem statement and what are the benefits of your solution? Read more about these [here](https://www.bidsketch.com/proposal-resources/proposal-templates/web-design-proposal-template).
+ - A written/electronic [domain model](https://en.wikipedia.org/wiki/Domain_model) document that illustrates the of relevant details of your project's approach to the [problem domain](https://en.wikipedia.org/wiki/Problem_domain)
  - A few wireframe sketches of your project's pages
 
  **TIP:** Use pencil and paper to diagram and sketch.
 
    Proposals, written or electronic, as per the project description, are due for review with the instruction team. First come, first served!
 
-  **Due at 12pm.**
+  **Due at 12pm, Tuesday May 29**
 
 2.
 Here are some tips on how to organize your team during the launch phase.
